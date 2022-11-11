@@ -1,5 +1,5 @@
-# CLUweb
-ZTF II-CLU Follow-up Web Application
+# ZTF II-CLU Follow-up Web Application
+
 This is a local Python browser application for tracking candidate sources in the Caltech ZTF Census of the Local Universe (CLU) experiment, a volume-luminosity limited supernova sample. The code aggregates sources from the Fritz marshal saved by a scanner to CLU. The web application presents plots and tables summarizing these sources and presenting the current classification completeness of the sample.
 
 # About CLU
