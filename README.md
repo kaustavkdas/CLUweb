@@ -33,6 +33,6 @@ The refresh date also takes the string all as an argument. This will redownload 
 Occasionally, duplicate sources are created through the ZTF pipeline (especially prevalent in April 2022). There is now a new classification taxonomy on Fritz used to mark these duplicates. Running sc.py now has the parameter --removeduplicates which removes any sources saved to CLU that have been marked as duplicates from completeness statistics and related plots (all sources saved to CLU meeting your query dates are downloaded regardless of their duplicate status). This setting is on by default. To keep duplicates in the completeness statistics/plots, include the parameter --no-removeduplicates when running sc.py from the terminal.
 
 # Further Notes
-This web application was intitally developed by Andy Tzanidakis and modified by Tawny Sit. **Kaustav K. Das (kdas@astro.caltech.edu)** is the current maintainer and has made few edits to the underlying code.
+This web application was intitally developed by Andy Tzanidakis and modified by Tawny Sit. Kaustav K. Das **(kdas@astro.caltech.edu)** is the current maintainer and has made few edits to the underlying code.
 
 Feature suggestions and bug reports are welcome!
